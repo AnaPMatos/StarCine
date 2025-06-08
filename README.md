@@ -1,4 +1,4 @@
-Site CineStar, avaliador online de filmes, séries e animes.
+Site StarCine, avaliador online de filmes, séries e animes.
 
 Telas estáticas como demonstração.
 
